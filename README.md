@@ -15,6 +15,7 @@
     - Spring Boot
     - Spring Batch
     - Spring Data JPA / MyBatis
+    - Spring Cloud
   - RDB (MySQL)
   - NoSQL (MongoDB)
   - ElasticSearch
