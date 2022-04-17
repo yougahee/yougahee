@@ -16,9 +16,9 @@
     - Spring Batch
     - Spring Data JPA / MyBatis
     - Spring Cloud
+  - ElasticSearch
   - RDB (MySQL)
   - NoSQL (MongoDB)
-  - ElasticSearch
 
 
 #### 📌 My Tach Blog
