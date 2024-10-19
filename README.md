@@ -11,17 +11,12 @@
  
  ### 📌 기술 스택
   - Java
-  - Spring Framework
-    - Spring Boot
-    - Spring Batch
-    - Spring Data JPA / MyBatis
-    - Spring Cloud
-  - ElasticSearch
+  - SpringBoot
   - RDB (MySQL)
   - NoSQL (MongoDB)
 
 
-#### 📌 My Tach Blog
+#### 📌 My Tech Blog
 - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gh402.tistory.com/)](https://gh402.tistory.com/)
 
 #### 📌 Contact Me HERE! 
